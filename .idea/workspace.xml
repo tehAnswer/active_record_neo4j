@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05177bf5-8efa-4bef-9ca6-b67530b0fc13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/finder/Finder.java" afterPath="$PROJECT_DIR$/src/main/java/finder/Finder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/example/Main.java" afterPath="$PROJECT_DIR$/src/main/java/example/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/finder/impl/RecordFinder.java" afterPath="$PROJECT_DIR$/src/main/java/finder/impl/RecordFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="05177bf5-8efa-4bef-9ca6-b67530b0fc13" name="Default" comment="" />
     <ignored path="active_record.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
