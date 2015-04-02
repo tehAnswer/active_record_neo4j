@@ -9,7 +9,8 @@ import java.util.Set;
 public interface Finder<T> {
 
     T find(long neoId);
-    Set<T> where (Map hash);
+    Set<T> where (String key, Object value);
+    Set<T> where (Map<String, Object> hash);
     T destroy();
     boolean save();
     boolean isDirty();
